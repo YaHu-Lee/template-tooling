@@ -1,0 +1,13 @@
+{
+  "name": "template-tooling",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:YaHu-Lee/template-tooling.git",
+  "author": "YaHu-Lee <lyh990719@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "eslint": "^7.25.0",
+    "eslint-config-prettier": "^8.3.0",
+    "prettier": "^2.2.1"
+  }
+}
