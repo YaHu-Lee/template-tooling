@@ -1,5 +1,2 @@
-function fullOfError() {
-  const variable = 2;
-  variable++;
-  return anotherVariable;
+function fullOfError() {const variable = 2;variable++;return anotherVariable;
 }
