@@ -1,5 +1,5 @@
-function fullOfError() {
-  const variable = 2;
+export default function fullOfError() {
+  let variable = 2;
   variable++;
-  return anotherVariable;
+  return variable;
 }
